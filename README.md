@@ -1,2 +1,2 @@
-# the-Tdot_Translator
-Translates English to Toronto urban slang and vice verse
+# Toronto-Translate
+Translates English to Torontonian urban slang and vice versa
